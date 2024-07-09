@@ -12,7 +12,7 @@ Vibe is a text sentiment analysis tool built to determine the emotional tone of 
 - **Interactive Interface**: Provides an intuitive user interface built with SwiftUI, offering seamless interaction and real-time feedback on text sentiment.
 
 *Usage*
-1. **Clone the Repository**: `git clone [https://github.com/yourusername/Vibe.git](https://github.com/i-haq786/Vibe)`
+1. **Clone the Repository**: `git clone https://github.com/i-haq786/Vibe`
 2. **Open in Xcode**: Navigate to the project directory and open `Vibe.xcodeproj` in Xcode.
 3. **Build and Run**: Use Xcode to build and run the project on your iOS device or simulator.
 4. **Input Text**: Enter text into the provided input field to see Vibe analyze and classify its sentiment.
