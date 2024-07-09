@@ -1,4 +1,3 @@
-Certainly! Here's a description for your project "Vibe" on GitHub:
 
 ---
 
